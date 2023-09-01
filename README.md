@@ -30,7 +30,7 @@
 ![weekstore](./WeekStorePresentation/29.jpg)
 ![weekstore](./WeekStorePresentation/30.jpg)
 ![weekstore](./WeekStorePresentation/31.jpg)
-v![weekstore](./WeekStorePresentation/32.jpg)
+![weekstore](./WeekStorePresentation/32.jpg)
 ![weekstore](./WeekStorePresentation/33.jpg)
 ![weekstore](./WeekStorePresentation/34.jpg)
 ![weekstore](./WeekStorePresentation/35.jpg)
